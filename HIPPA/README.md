@@ -1,12 +1,10 @@
-Here's a **detailed, practical guide to HIPAA** tailored for **DevOps engineers** and **IT administrators**, especially those working with healthcare systems or sensitive health-related data.
-
----
-
 # 📘 What is HIPAA?
 
 **HIPAA** stands for the **Health Insurance Portability and Accountability Act** of 1996 (U.S. law). It sets **rules and standards to protect sensitive patient health information** (PHI – Protected Health Information).
 
 If you're building, deploying, or managing IT systems that handle **PHI**, you must ensure your infrastructure and operations are **HIPAA-compliant**.
+
+**HIPPA in Azure:** https://learn.microsoft.com/en-us/azure/governance/policy/samples/hipaa-hitrust-9-2
 
 ---
 
