@@ -1,7 +1,3 @@
-Excellent decision! Creating a structured **GitHub repository** to document and track your learning around **regulatory standards and risk assessment** will help both your understanding *and* your resume. Here's a complete plan:
-
----
-
 ## ✅ **Repository Setup Plan**
 
 ### **Repo Name:**
@@ -138,4 +134,3 @@ This is a living document that I will update as I:
 2. Start by filling in the `README.md` and Week 1 notes.
 3. Update weekly, push regularly.
 
-Would you like me to generate the initial `README.md` and folder structure as a ZIP or provide the exact shell commands to set it up locally?
