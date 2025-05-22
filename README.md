@@ -1,3 +1,66 @@
+Excellent decision! Creating a structured **GitHub repository** to document and track your learning around **regulatory standards and risk assessment** will help both your understanding *and* your resume. Here's a complete plan:
+
+---
+
+## ✅ **Repository Setup Plan**
+
+### **Repo Name:**
+
+```bash
+regulatory-compliance-learning
+```
+
+### **Repo Description:**
+
+> A personal knowledge base and learning path focused on regulatory standards (ISO, NIST, FDA validation) and risk assessment methodologies for system validation and quality assurance roles.
+
+---
+
+## 📁 **Suggested Folder Structure**
+
+```bash
+regulatory-compliance-learning/
+│
+├── README.md
+├── ISO/
+│   ├── ISO_9001.md
+│   ├── ISO_27001.md
+│   └── Notes/
+│       └── checklists.md
+│
+├── NIST/
+│   ├── NIST_800-53.md
+│   ├── NIST_800-171.md
+│   └── Notes/
+│       └── control_mapping.md
+│
+├── FDA/
+│   ├── FDA_21CFR_Part11.md
+│   ├── GAMP5.md
+│   └── Notes/
+│       └── validation_process.md
+│
+├── Risk_Assessment/
+│   ├── FMEA.md
+│   ├── HIRA.md
+│   └── CAPA.md
+│
+├── Templates/
+│   ├── validation_plan_template.md
+│   ├── risk_assessment_template.md
+│   └── sop_template.md
+│
+└── Resources/
+    ├── courses.md
+    ├── books.md
+    └── useful_links.md
+```
+
+---
+
+## ✍️ **README.md Template**
+
+
 # Regulatory Compliance Learning
 
 This repository is my personal knowledge base focused on learning and understanding regulatory standards and risk assessment methodologies. It is intended to help me transition into roles that require compliance expertise such as System Validation & Quality Assurance.
@@ -38,3 +101,41 @@ This is a living document that I will update as I:
 - Prepare for interviews
 
 
+
+---
+
+## 📅 **Learning Plan: 6-Week Roadmap**
+
+| Week | Topic                       | Focus Area                           | Output in Repo         |
+| ---- | --------------------------- | ------------------------------------ | ---------------------- |
+| 1    | ISO 9001 & 27001            | QMS & InfoSec Controls               | ISO/\*.md              |
+| 2    | NIST 800-53 & 800-171       | Access control, audit, risk          | NIST/\*.md             |
+| 3    | FDA 21 CFR Part 11 & GAMP 5 | Pharma validation, documentation     | FDA/\*.md              |
+| 4    | Risk Assessment Basics      | FMEA, HIRA, CAPA                     | Risk\_Assessment/\*.md |
+| 5    | Templates                   | SOPs, Validation Plans               | Templates/\*.md        |
+| 6    | Review & Practice           | Create mini case study or mock audit | README + Notes         |
+
+---
+
+## 🔗 **Useful Learning Resources (Add to `Resources/`)**
+
+### Courses
+
+* [Coursera – ISO 9001 Basics](https://www.coursera.org)
+* [Cybrary – NIST 800-53](https://www.cybrary.it)
+* [LinkedIn Learning – FDA Regulations](https://www.linkedin.com/learning)
+
+### Free PDFs
+
+* [NIST 800-53 Full PDF](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
+* [GAMP 5 Summary](https://www.ispe.org/gamp-5)
+
+---
+
+## 🚀 Next Steps
+
+1. Create the GitHub repo with the structure above.
+2. Start by filling in the `README.md` and Week 1 notes.
+3. Update weekly, push regularly.
+
+Would you like me to generate the initial `README.md` and folder structure as a ZIP or provide the exact shell commands to set it up locally?
