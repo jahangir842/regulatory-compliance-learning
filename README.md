@@ -1,16 +1,6 @@
-## ✅ **Repository Setup Plan**
+# Regulatory Compliance Learning
 
-### **Repo Name:**
-
-```bash
-regulatory-compliance-learning
-```
-
-### **Repo Description:**
-
-> A personal knowledge base and learning path focused on regulatory standards (ISO, NIST, FDA validation) and risk assessment methodologies for system validation and quality assurance roles.
-
----
+This repository is my personal knowledge base focused on learning and understanding regulatory standards and risk assessment methodologies. It is intended to help me transition into roles that require compliance expertise such as System Validation & Quality Assurance.
 
 ## 📁 **Suggested Folder Structure**
 
@@ -54,12 +44,7 @@ regulatory-compliance-learning/
 
 ---
 
-## ✍️ **README.md Template**
 
-
-# Regulatory Compliance Learning
-
-This repository is my personal knowledge base focused on learning and understanding regulatory standards and risk assessment methodologies. It is intended to help me transition into roles that require compliance expertise such as System Validation & Quality Assurance.
 
 ## 📚 Contents
 
@@ -128,9 +113,5 @@ This is a living document that I will update as I:
 
 ---
 
-## 🚀 Next Steps
 
-1. Create the GitHub repo with the structure above.
-2. Start by filling in the `README.md` and Week 1 notes.
-3. Update weekly, push regularly.
 
